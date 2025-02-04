@@ -41,7 +41,7 @@ const Hero = () => {
             <h1 className="text-6xl font-extrabold leading-tight text-gray-900">
               Hey... I am 
               <span className="bg-gradient-to-r from-blue-500 to-purple-500 text-transparent bg-clip-text">
-                {" "}Nitish
+                {"  "}Nitish
               </span>
             </h1>
           </motion.div>
